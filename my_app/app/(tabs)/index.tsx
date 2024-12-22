@@ -9,8 +9,9 @@ justifyContent: "center",
 alignItems: "center",
 }}
 >
-      <Image source={require('../assets/images/react-logo.png')}/>
 <Text>Hello world</Text>
+<Image source={require('../../assets/images/react-logo.png')}/>
+
 </View>
 );
 }
