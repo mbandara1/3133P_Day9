@@ -35,5 +35,7 @@ expo init MyReactNativeApp
 cd MyReactNativeApp
 expo start
 ```
-# Output
+# Output_1
 ![alt text](<Screenshot 2024-12-22 235930.png>)
+# Output_2
+![alt text](<Screenshot 2024-12-23 003708.png>)
